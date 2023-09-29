@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Software Development
 - 💻 I'm currently pursuing my undergrad at IIT Palakkad.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nitheesh-chandra/)
+
+[![My Skills](https://skills.thijs.gg/icons?i=c,html,css,js,postgres,py,git,md&theme=dark)](https://skills.thijs.gg)
 <!--
 **nitheeshj/nitheeshj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
