@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Software Development
+- 💻 I'm currently pursuing my undergrad at IIT Palakkad.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nitheesh-chandra/)
 <!--
 **nitheeshj/nitheeshj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
