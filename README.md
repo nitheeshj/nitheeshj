@@ -2,6 +2,7 @@
 Aspiring Software Engineer focused on Web Development.  
 Completed Frontend, currently building apps and learning Backend + DSA.
 
+
 ## 🧠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -18,13 +19,16 @@ Completed Frontend, currently building apps and learning Backend + DSA.
 - Backend Development
 - Data Structures & Algorithms
 
+
 ## 🚀 Projects
 - Rock Paper Scissors — JavaScript Game  
 - Etch A Sketch — DOM & Grid Practice  
 - Calculator App — Logic & Event Handling
 
+
 ## 🎓 Education
 B.Tech CSE — IIT Palakkad
+
 
 ## 🧩 Interests
 Neuroscience • Psychology • Learning Systems
